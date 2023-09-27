@@ -1,0 +1,8 @@
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe.config
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.pdb
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\obj\Debug\DesktopActiveService.csproj.AssemblyReference.cache
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\obj\Debug\DesktopActiveService.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\obj\Debug\DesktopActiveService.csproj.CoreCompileInputs.cache
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\obj\Debug\DesktopActiveService.exe
+C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\obj\Debug\DesktopActiveService.pdb

@@ -1,0 +1,75 @@
+﻿Installing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Installing service DesktopActiveService...
+Service DesktopActiveService has been successfully installed.
+Creating EventLog source DesktopActiveService in log Application...
+Committing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Installing service DesktopActiveService...
+Service DesktopActiveService has been successfully installed.
+Creating EventLog source DesktopActiveService in log Application...
+Committing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Installing service DesktopActiveService...
+Creating EventLog source DesktopActiveService in log Application...
+Rolling back assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DesktopActiveService.
+Installing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Installing service DesktopActiveService...
+Creating EventLog source DesktopActiveService in log Application...
+Rolling back assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DesktopActiveService.
+Installing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
+Installing service DesktopActiveService...
+Service DesktopActiveService has been successfully installed.
+Creating EventLog source DesktopActiveService in log Application...
+Committing assembly 'C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.InstallLog
+   assemblypath = C:\Users\ZMark1\source\repos\DesktopActiveServiceSolution\DesktopActiveService\bin\Debug\DesktopActiveService.exe
+   logtoconsole = 
